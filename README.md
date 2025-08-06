@@ -6,7 +6,7 @@ Belajar Git #05: Melihat Perbandingan Revisi dengan Git Diff
 Belajar Git #06: Perintah untuk Membatalkan Revisi
 Belajar Git #07: Menggunakan Cabang untuk Mencegah Konflik
 Belajar Git #08: Perbedaan Git checkout, Git Reset, dan Git Revert
-Belajar Git #09: slebew
+Belajar Git #09: slebewww
 Belajar Git #10: Menggunakan Git Pull dan Git Fetch
 Belajar Git #11: Cara Berkontribusi di Proyek Open Source dengan Git
 Belajar Git #12: Cara Menggunakan Git pada Visual Studio Code
